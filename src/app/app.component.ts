@@ -8,15 +8,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'uggabug';
 
-
-  namn: string;
-  get name(): string {
-    return this.namn;
-  }
-  set name(value: string) {
-    this.namn = value;
-  }
-
   onClick(): void {
     alert('HEJ A$!');
   }
