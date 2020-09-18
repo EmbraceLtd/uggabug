@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "uggadunk-bug"
+  },
+  "targets": {
+    "uggadunk-bug": {
+      "hosting": {
+        "bug": [
+          "uggadunk-bug"
+        ]
+      }
+    }
+  }
+}
