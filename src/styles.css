@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; background-color: black;color: white;font-family: UI-Monospace, "Lucida Console", sans-serif; }
+div {font-family: UI-Monospace, "Lucida Console", sans-serif; }
+body { margin: 0; font-family: UI-Monospace, "Lucida Console", sans-serif; }
+input { background-color: black; color: white; border-block-color: black; font-family: UI-Monospace, "Lucida Console", sans-serif;}
